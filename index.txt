@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Grace M
 Richard hanrick
 Web developer
 
